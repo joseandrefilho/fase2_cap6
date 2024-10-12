@@ -16,9 +16,9 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/in/tutor">Nome do Tutor</a>
+- <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">Lucas Gomes Moreira</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/in/coordenador">Nome do Coordenador</a>
+- <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi Chiovato</a>
 
 ## 📜 Descrição
 
@@ -83,14 +83,11 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🗃 Histórico de lançamentos
 
-* 1.0.0 - XX/XX/2024
+* 1.0.0 - 12/10/2024
     * Primeira versão funcional do sistema de gestão de estoque de insumos com suporte para JSON e CSV
-* 0.9.0 - XX/XX/2024
     * Adição da funcionalidade de previsão de estoque usando regressão linear
-    * Melhorias na geração de relatórios com filtros dinâmicos
-* 0.8.0 - XX/XX/2024
+    * Adição da funcionalidade de geração de relatórios com filtros dinâmicos
     * Integração com o banco de dados Oracle
-* 0.7.0 - XX/XX/2024
     * Criação do módulo de movimentação de insumos
 
 ## 📋 Licença
